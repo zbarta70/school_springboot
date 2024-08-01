@@ -1,2 +1,2 @@
 # school_springboot
-Minta iskola SpringBoot web application
+Minta iskola Spring Boot web application
